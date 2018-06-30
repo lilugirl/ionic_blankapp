@@ -1,4 +1,6 @@
 # ionic_blankapp
+
+```
 npm init 
 npm install mosca --save
 touch index.js
